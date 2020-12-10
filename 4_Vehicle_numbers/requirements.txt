@@ -1,0 +1,11 @@
+tensorflow_gpu==2.2.0
+requests==2.24.0
+uvicorn==0.11.8
+numpy==1.19.0
+opencv_python_headless==4.3.0.36
+Keras==2.4.3
+tqdm==4.47.0
+fastapi==0.62.0
+Pillow==8.0.1
+tensorflow==2.3.1
+python-multipart==0.0.5
